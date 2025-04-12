@@ -31,8 +31,8 @@ function App() {
             {/* About Me Section */}
             <h1 className="text-4xl font-semibold text-gray-700 mb-4 cursor-pointer hover:text-gray-800">About Me</h1>
             <p className="text-md text-gray-600 mb-6">I'm a 4th year IT student from the Philippines, 
-              and I'm all about exploring new things in the world of programming. 
-              When I'm not coding, I’m into music production and video editing. 
+              and I enjoy exploring new things in the world of programming. 
+              When I'm not coding, I’m also into music production and video editing. 
             </p>
               {/* Tech Stack Icons */}
               <div className="flex justify-center items-center gap-6 mt-6 flex-wrap">
